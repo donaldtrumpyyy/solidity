@@ -5,7 +5,7 @@ Solidity v0.8.0 Changements de rupture
 Cette section met en évidence les principaux changements de rupture introduits dans Solidity
 version 0.8.0.
 Pour la liste complète, consultez
-le changelog de la version <https://github.com/ethereum/solidity/releases/tag/v0.8.0>`_.
+le changelog de la version `0.8.0 <https://github.com/ethereum/solidity/releases/tag/v0.8.0>`_.
 
 Changements silencieux de la sémantique
 ===============================

@@ -11,7 +11,7 @@ compilateur Solidity. Le fichier lui-même est hébergé dans le `dépositaire G
 La liste remonte jusqu'à la version 0.3.0, les bogues connus pour être présents uniquement
 dans les versions précédentes ne sont pas listés.
 
-Il existe un autre fichier appelé `bugs_by_version.json'.
+Il existe un autre fichier appelé `bugs_by_version.json
 <https://github.com/ethereum/solidity/blob/develop/docs/bugs_by_version.json>`_,
 qui peut être utilisé pour vérifier quels bugs affectent une version spécifique du compilateur.
 

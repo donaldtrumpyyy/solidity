@@ -38,8 +38,8 @@ Licence du logo Solidity
 =====================
 
 .. image:: https://i.creativecommons.org/l/by/4.0/88x31.png
-  :width : 88
-  :alt : Licence Creative Commons
+  :width: 88
+  :alt: Licence Creative Commons
 
 Le logo Solidity est distribué et mis sous licence `Creative Commons'.
 Attribution 4.0 International License <https://creativecommons.org/licenses/by/4.0/>`_.
@@ -67,7 +67,7 @@ Directives relatives au logo Solidity
 ========================
 
 .. image:: logo.svg
-  :width : 256
+  :width: 256
 
 *(Cliquez avec le bouton droit de la souris sur le logo pour le télécharger.)*
 

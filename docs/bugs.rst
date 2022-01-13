@@ -7,8 +7,7 @@ Liste des bogues connus
 ##################
 
 Ci-dessous, vous trouverez une liste, formatée en JSON, de certains des bogues connus relatifs à la sécurité dans le
-compilateur Solidity. Le fichier lui-même est hébergé dans le `dépositaire Github
-<https://github.com/ethereum/solidity/blob/develop/docs/bugs.json>`_.
+compilateur Solidity. Le fichier lui-même est hébergé dans le `dépositaire Github <https://github.com/ethereum/solidity/blob/develop/docs/bugs.json>`_.
 La liste remonte jusqu'à la version 0.3.0, les bogues connus pour être présents uniquement
 dans les versions précédentes ne sont pas listés.
 

@@ -108,14 +108,14 @@ La version anglaise est une référence.
    au `guide de traduction <https://github.com/solidity-docs/translation-guide>`_
    pour obtenir des informations sur la manière de contribuer aux traductions communautaires en cours.
 
-* `French <https://solidity-fr.readthedocs.io>`_ (in progress)
-* `Italian <https://github.com/damianoazzolini/solidity>`_ (in progress)
-* `Japanese <https://solidity-jp.readthedocs.io>`_
-* `Korean <https://solidity-kr.readthedocs.io>`_ (in progress)
-* `Russian <https://github.com/ethereum/wiki/wiki/%5BRussian%5D-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-Solidity>`_ (rather outdated)
-* `Simplified Chinese <https://learnblockchain.cn/docs/solidity/>`_ (in progress)
-* `Spanish <https://solidity-es.readthedocs.io>`_
-* `Turkish <https://github.com/denizozzgur/Solidity_TR/blob/master/README.md>`_ (partial)
+* `Français <https://solidity-fr.readthedocs.io>`_ (en cours)
+* `Italien <https://github.com/damianoazzolini/solidity>`_ (en cours)
+* `Japonais <https://solidity-jp.readthedocs.io>`_
+* `Coréen <https://solidity-kr.readthedocs.io>`_ (en cours)
+* `Russe <https://github.com/ethereum/wiki/wiki/%5BRussian%5D-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-Solidity>`_ (rather outdated)
+* `Chinois simplifié <https://learnblockchain.cn/docs/solidity/>`_ (en cours)
+* `Espagnol <https://solidity-es.readthedocs.io>`_
+* `Turc <https://github.com/denizozzgur/Solidity_TR/blob/master/README.md>`_ (partiel)
 
 Contenu
 ========
